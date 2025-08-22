@@ -19,8 +19,8 @@ It allows you to upload CSV-based flashcard sets, study them using a **spaced re
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/debugip/smart-flashcards.git]
-cd <smart-flashcards>
+git clone https://github.com/debugip/smart-flashcards.git
+cd smart-flashcards
 ```
 
 ### 2. Project Structure
